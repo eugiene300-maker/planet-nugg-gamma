@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="-54.0 -54.0 1132.0 1132.0">
+  <g fill="none" stroke="black" stroke-width="50" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M 883.188,76.923 C 889.535,70.971 895.816,66.42 903.9,62.088 C 910.159,59.732 917.567,58.094 926.773,57.39 C 933.974,57.961 942.192,59.802 952.905,63.738 C 962.159,69.887 998.846,103.946 1006.803,112.52 C 1014.963,126.422 1018.538,137.273 1019.937,147.915 C 1019.128,159.815 1015.355,171.803 1010.031,181.743 Q 1004.555,188.535 982.568,210.971" data-line="nan"  stroke-width="50.0"/>
+    <path d="M 551.987,638.541 L 441.865,528.619" data-line="0.0"  stroke-width="50.0"/>
+    <path d="M 551.987,638.541 L 358.674,720.86" data-line="1.0"  stroke-width="50.0"/>
+    <path d="M 441.865,528.619 L 358.674,720.86" data-line="3.0"  stroke-width="50.0"/>
+    <path d="M 948.987,244.69 L 832.871,126.684" data-line="4.0"  stroke-width="50.0"/>
+    <path d="M 440.173,526.899 L 883.188,76.923" data-line="5.0"  stroke-width="50.0"/>
+    <path d="M 713.802,119.091 L 14.331,120.44" data-line="14.0"  stroke-width="50.0"/>
+    <path d="M 14.144,965.186 L 14.331,120.44" data-line="15.0"  stroke-width="50.0"/>
+    <path d="M 915.801,963.029 L 14.144,965.186" data-line="16.0"  stroke-width="50.0"/>
+    <path d="M 915.801,963.029 L 917.094,380.206" data-line="17.0"  stroke-width="50.0"/>
+    <path d="M 982.568,210.971 L 559.888,635.173" data-line="19.0"  stroke-width="50.0"/>
+  </g>
+</svg>
